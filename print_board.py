@@ -32,7 +32,7 @@ def board_print(size: int):
         b = []
 
 def main():
-    board_print(8)
+    board_print(2)
     
 if __name__ =="__main__":
         main()
